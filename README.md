@@ -1,4 +1,4 @@
-![logo](https://github.com/AnchalaSingh/AnchalaSingh/blob/main/banner.png)
+![logo](https://github.com/AnchalaSingh/AnchalaSingh/blob/main/banne2r.png)
 <h1 align="center">Hi 👋, I'm Anchala Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
