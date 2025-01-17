@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalasingh&label=Profile%20views&color=0e75b6&style=flat" alt="anchalasingh" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/anchala-singh-b9260a1b8**
+- 📫 How to reach me **https://www.linkedin.com/in/anchala723/**
 
 - ⚡ Fun fact **I think I am Funny and little Crazy**
 
